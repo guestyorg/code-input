@@ -39,5 +39,5 @@ With a related angular controller:
 | `digits`  | number of **digits** to display  | 3  | optional |
 | `class`  | custom class  | default  | optional |
 
-###MIT Licence
+### MIT Licence
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
