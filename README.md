@@ -1,6 +1,6 @@
 # code-input
 
-UI component for handling code retrival with seperate input elements
+UI component for handling code retrieval with separate input elements
 
 #### NPM packages for supported frameworks
 
