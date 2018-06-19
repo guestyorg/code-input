@@ -1,6 +1,6 @@
 {
   "name": "ng-code-input",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Angualrjs code input directive",
   "main": "index.js",
   "scripts": {
@@ -9,4 +9,3 @@
   "author": "Guesty",
   "license": "MIT"
 }
-,
