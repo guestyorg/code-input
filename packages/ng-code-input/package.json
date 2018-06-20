@@ -1,8 +1,12 @@
 {
   "name": "ng-code-input",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Angualrjs code input directive",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guestyorg/code-input.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
