@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>ng-code-input demo</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"></script>
+    <script src="../dist/ng-code-input.js"></script>
+    <script src="scripts.js"></script>
+</head>
+<body>
+    <div ng-controller="mainController">
+        <div style="text-align:center; padding-top:250px">
+            <code-input
+                ng-model="code"
+                digits="3">
+            </code-input>
+            <h1>ngModel => [{{code}}]</h1>
+        </div>
+    </div>
+</body>
+</html>

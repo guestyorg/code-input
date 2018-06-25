@@ -1,0 +1,1 @@
+angular.module('ng-code-input').run(['$templateCache', function($templateCache) {$templateCache.put('code-input.html','<input ng-style="class || myObj" class={{class}} type=text ng-repeat="digit in digitsArray track by $index" ng-change=onChange() ng-model=myObject[$index] maxlength=1 move-next>');}]);
